@@ -1,0 +1,14 @@
+D:\C#\form3\obj\Debug\net8.0-windows\form3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\form3\obj\Debug\net8.0-windows\form3.AssemblyInfoInputs.cache
+D:\C#\form3\obj\Debug\net8.0-windows\form3.AssemblyInfo.cs
+D:\C#\form3\obj\Debug\net8.0-windows\form3.csproj.CoreCompileInputs.cache
+D:\C#\form3\bin\Debug\net8.0-windows\form3.exe
+D:\C#\form3\bin\Debug\net8.0-windows\form3.deps.json
+D:\C#\form3\bin\Debug\net8.0-windows\form3.runtimeconfig.json
+D:\C#\form3\bin\Debug\net8.0-windows\form3.dll
+D:\C#\form3\bin\Debug\net8.0-windows\form3.pdb
+D:\C#\form3\obj\Debug\net8.0-windows\form3.dll
+D:\C#\form3\obj\Debug\net8.0-windows\refint\form3.dll
+D:\C#\form3\obj\Debug\net8.0-windows\form3.pdb
+D:\C#\form3\obj\Debug\net8.0-windows\form3.genruntimeconfig.cache
+D:\C#\form3\obj\Debug\net8.0-windows\ref\form3.dll

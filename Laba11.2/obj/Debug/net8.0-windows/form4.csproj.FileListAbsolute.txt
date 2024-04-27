@@ -1,0 +1,14 @@
+D:\C#\form4\obj\Debug\net8.0-windows\form4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\form4\obj\Debug\net8.0-windows\form4.AssemblyInfoInputs.cache
+D:\C#\form4\obj\Debug\net8.0-windows\form4.AssemblyInfo.cs
+D:\C#\form4\obj\Debug\net8.0-windows\form4.csproj.CoreCompileInputs.cache
+D:\C#\form4\bin\Debug\net8.0-windows\form4.exe
+D:\C#\form4\bin\Debug\net8.0-windows\form4.deps.json
+D:\C#\form4\bin\Debug\net8.0-windows\form4.runtimeconfig.json
+D:\C#\form4\bin\Debug\net8.0-windows\form4.dll
+D:\C#\form4\bin\Debug\net8.0-windows\form4.pdb
+D:\C#\form4\obj\Debug\net8.0-windows\form4.dll
+D:\C#\form4\obj\Debug\net8.0-windows\refint\form4.dll
+D:\C#\form4\obj\Debug\net8.0-windows\form4.pdb
+D:\C#\form4\obj\Debug\net8.0-windows\form4.genruntimeconfig.cache
+D:\C#\form4\obj\Debug\net8.0-windows\ref\form4.dll

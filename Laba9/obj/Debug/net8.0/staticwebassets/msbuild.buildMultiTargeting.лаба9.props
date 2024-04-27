@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\лаба9.props" />
+</Project>
