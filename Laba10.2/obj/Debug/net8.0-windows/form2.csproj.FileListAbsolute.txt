@@ -1,0 +1,14 @@
+D:\C#\form2\bin\Debug\net8.0-windows\form2.exe
+D:\C#\form2\bin\Debug\net8.0-windows\form2.deps.json
+D:\C#\form2\bin\Debug\net8.0-windows\form2.runtimeconfig.json
+D:\C#\form2\bin\Debug\net8.0-windows\form2.dll
+D:\C#\form2\bin\Debug\net8.0-windows\form2.pdb
+D:\C#\form2\obj\Debug\net8.0-windows\form2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\form2\obj\Debug\net8.0-windows\form2.AssemblyInfoInputs.cache
+D:\C#\form2\obj\Debug\net8.0-windows\form2.AssemblyInfo.cs
+D:\C#\form2\obj\Debug\net8.0-windows\form2.csproj.CoreCompileInputs.cache
+D:\C#\form2\obj\Debug\net8.0-windows\form2.dll
+D:\C#\form2\obj\Debug\net8.0-windows\refint\form2.dll
+D:\C#\form2\obj\Debug\net8.0-windows\form2.pdb
+D:\C#\form2\obj\Debug\net8.0-windows\form2.genruntimeconfig.cache
+D:\C#\form2\obj\Debug\net8.0-windows\ref\form2.dll
