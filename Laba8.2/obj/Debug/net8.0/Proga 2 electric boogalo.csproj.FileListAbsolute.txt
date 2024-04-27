@@ -1,0 +1,25 @@
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\Proga 2 electric boogalo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\Proga 2 electric boogalo.AssemblyInfoInputs.cache
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\Proga 2 electric boogalo.AssemblyInfo.cs
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\Proga 2 electric boogalo.csproj.CoreCompileInputs.cache
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\Proga 2 electric boogalo.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\Proga 2 electric boogalo\bin\Debug\net8.0\appsettings.Development.json
+D:\C#\Proga 2 electric boogalo\bin\Debug\net8.0\appsettings.json
+D:\C#\Proga 2 electric boogalo\bin\Debug\net8.0\Proga 2 electric boogalo.exe
+D:\C#\Proga 2 electric boogalo\bin\Debug\net8.0\Proga 2 electric boogalo.deps.json
+D:\C#\Proga 2 electric boogalo\bin\Debug\net8.0\Proga 2 electric boogalo.runtimeconfig.json
+D:\C#\Proga 2 electric boogalo\bin\Debug\net8.0\Proga 2 electric boogalo.dll
+D:\C#\Proga 2 electric boogalo\bin\Debug\net8.0\Proga 2 electric boogalo.pdb
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\staticwebassets.build.json
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\staticwebassets.development.json
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\staticwebassets\msbuild.Proga 2 electric boogalo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\staticwebassets\msbuild.build.Proga 2 electric boogalo.props
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Proga 2 electric boogalo.props
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Proga 2 electric boogalo.props
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\scopedcss\bundle\Proga 2 electric boogalo.styles.css
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\Proga 2 electric boogalo.dll
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\refint\Proga 2 electric boogalo.dll
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\Proga 2 electric boogalo.pdb
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\Proga 2 electric boogalo.genruntimeconfig.cache
+D:\C#\Proga 2 electric boogalo\obj\Debug\net8.0\ref\Proga 2 electric boogalo.dll
